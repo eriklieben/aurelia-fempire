@@ -27,7 +27,7 @@ export class App {
 
   public configureRouter(config: RouterConfiguration, router: Router) {
     config.title = 'Aurelia';
-    config.map(Routes);
+    config.map(<any>Routes);
     this.router = router;
   }
 

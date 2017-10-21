@@ -138,7 +138,7 @@
     "attributes": "resources/attributes",
     "valueConverters": "resources/value-converters",
     "bindingBehaviors": "resources/binding-behaviors",
-    "models": "src/models"
+    "models": "models"
   },
   "testFramework": {
     "id": "jasmine",
